@@ -1,3 +1,17 @@
 body{
     background-color: aqua;
 }
+#c{
+    text-align: center;
+}
+#ci{
+    width: max-content;
+    color: blue;
+}
+#b{
+    background-color: aqua;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    text-decoration: overline;
+}
